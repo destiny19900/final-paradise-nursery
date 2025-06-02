@@ -12,7 +12,7 @@ const LandingPage = () => {
   return (
     <div
       className="relative flex items-center justify-center h-screen bg-cover bg-center"
-      style={{ backgroundImage: "url('/paradise-nursery/bg.jpg')" }}>
+      style={{ backgroundImage: "url('/final-paradise-nursery/bg.jpg')" }}>
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="z-10 text-center text-white px-6 md:px-12">
         <h1 className="text-2xl md:text-3xl lg:text-4xl font-bold mb-6">Welcome to<br />Paradise Nusrey</h1>

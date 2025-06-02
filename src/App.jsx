@@ -15,7 +15,7 @@ function App() {
 
   return (
     <>
-      <Router basename="/paradise-nursery">
+      <Router basename="/final-paradise-nursery">
         <div className="App">
           <Routes>
             <Route path="/" element={<LandingPage />} />

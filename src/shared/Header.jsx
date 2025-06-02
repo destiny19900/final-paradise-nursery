@@ -14,7 +14,7 @@ const Header = ({ }) => {
         <div className="text-xl font-bold flex flex-row items-center space-x-4">
           <Link to="/" className="text-white transition-colors duration-300">
             <img
-              src={`/paradise-nursery/logo.png`}
+              src={`/final-paradise-nursery/logo.png`}
               alt="Paradise Nursery Logo"
               className="h-10 w-10"
             />
